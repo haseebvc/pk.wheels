@@ -109,7 +109,7 @@ export default function Home() {
               <p className="text-green-500 text-center text-sm">PKR 23.3 - 30.5 lacs</p>
               <div className="flex items-center gap-1 mt-4 ml-7">
                 <img src="/images/stars.jpg" alt="star" width={70} height={15} />
-                <p className="text-gray-500 text-center text-sm">622 Reviews</p> </div>
+                <p className="text-gray-500 text-center text-sm">752 Reviews</p> </div>
             </div></div>
 
 
